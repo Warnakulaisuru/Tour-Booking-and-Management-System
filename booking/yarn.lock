@@ -1411,6 +1411,11 @@ find-up@^5.0.0:
     locate-path "^6.0.0"
     path-exists "^4.0.0"
 
+fix-cors-errors@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/fix-cors-errors/-/fix-cors-errors-1.0.0.tgz#7d1c4d670997f608812c73cf7c250e666f36c498"
+  integrity sha512-xg6QF9ABwgI2GCioPnK4NkQ4WLJPw36C3KUdDsQWfJeG7Fj3g//cCBv5NUSqp4ZiyLTbxz0Z6hMoOU2sl9iUlA==
+
 flat-cache@^3.0.4:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/flat-cache/-/flat-cache-3.2.0.tgz#2c0c2d5040c99b1632771a9d105725c0115363ee"
