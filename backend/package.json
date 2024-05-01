@@ -13,6 +13,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.5.0",
     "mongoose": "^8.3.3",
+    "react-hook-use-form": "^1.2.0",
     "use-axios-react": "^0.2.3"
   },
   "proxy": {

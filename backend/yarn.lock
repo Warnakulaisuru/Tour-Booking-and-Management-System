@@ -785,6 +785,11 @@ raw-body@2.5.2:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
+react-hook-use-form@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-hook-use-form/-/react-hook-use-form-1.2.0.tgz#576f7ed65959a1f4b03ec0efec8cd47a8defc134"
+  integrity sha512-oOq2ypSysFE58okFfxWT+pAKMoF0CjmRX+o83zK39qFyYK2OiG6TO1TzGCu2Jzw7Mm1VkiOvRdAmvWzPq95K8Q==
+
 readdirp@~3.6.0:
   version "3.6.0"
   resolved "https://registry.npmjs.org/readdirp/-/readdirp-3.6.0.tgz"
