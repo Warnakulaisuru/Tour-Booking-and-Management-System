@@ -1,7 +1,10 @@
-export default function IndexPage(){
-    return(
+
+import App from './App1.jsx';
+
+export default function IndexPage() {
+    return (
         <div>
-      index page here
-    </div>
+            <App />
+        </div>
     );
 }
